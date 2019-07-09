@@ -1,0 +1,14 @@
+{
+  "id": "5d09",
+  "type": "badminton",
+  "status": "recruiting",
+  "minimum_personnel": 2,
+  "maximum_personnel": 4,
+  "member": [
+    "12a8",
+    "8e16"
+  ],
+  "created_time": "2019-09-21 14:27:62",
+  "updated_time": "2019-09-21 14:27:62",
+  "description": null
+}
