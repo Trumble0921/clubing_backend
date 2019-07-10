@@ -1,12 +1,14 @@
 {
-  "id": "5d09",
+  "_id": ObjectId("5d09"),
+  "owner": "심준열"
   "type": "badminton",
+  "location": "seoul",
   "status": "recruiting",
   "minimum_personnel": 2,
   "maximum_personnel": 4,
   "member": [
-    "12a8",
-    "8e16"
+    "이지은",
+    "강의건"
   ],
   "created_time": "2019-09-21 14:27:62",
   "updated_time": "2019-09-21 14:27:62",
